@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/better-gifts.md
 - _posts/2019-03-27-2019-03-27-why-fonts-matter.md
 - _posts/2019-03-24-2019-03-24-workplace.md
 - _posts/2019-03-10-2019-03-10-street-photography.md
